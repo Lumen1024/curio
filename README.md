@@ -64,3 +64,10 @@ cmake --build .
 ### Примечание
 
 При закрытии приложения все данные автоматически сохраняются и загружаются при следующем запуске.
+
+### Демонстрация
+<img width="1145" height="772" alt="image" src="https://github.com/user-attachments/assets/41173ee3-6adc-4fb0-8afd-d4864acb9658" />
+
+
+
+
